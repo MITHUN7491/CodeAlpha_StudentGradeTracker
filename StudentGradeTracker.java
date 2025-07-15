@@ -1,5 +1,4 @@
-//MITHUN M
-//mithunnuthan2005@gmail.com
+//MITHUN M  
 //java project on STUDENT GRADE TRACKER
 import java.awt.*;
 import java.util.ArrayList;
